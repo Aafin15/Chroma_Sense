@@ -67,6 +67,7 @@ pic2
 
 📌 License
 This project is open-source and free to use for personal or academic projects.
+This project is licensed under the [MIT License](LICENSE).
 
 
 
