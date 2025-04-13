@@ -68,7 +68,7 @@ pic2
 📌 License
 This project is open-source and free to use for personal or academic projects.
 This project is licensed under the [MIT License](LICENSE).
-
+🔒 Official repository of Chroma_Sense by Aafin15 — Please fork to contribute, but do not claim original ownership.
 
 
 ### 📦 Install required libraries:
